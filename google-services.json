@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453711596775",
+    "firebase_url": "https://loyaltyz-622ab.firebaseio.com",
+    "project_id": "loyaltyz-622ab",
+    "storage_bucket": "loyaltyz-622ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453711596775:android:7ba01c0778cb4696",
+        "android_client_info": {
+          "package_name": "com.phonegap.Loyaltyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453711596775-ic700mhrhpf3ognbcgmfth6f8prg0erl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQvWbDit3lrLZyDBf2TqIwwQWY9gQmGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453711596775-ic700mhrhpf3ognbcgmfth6f8prg0erl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453711596775-8jdl60913kaaf7d41fhgkprterovg0k4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phonegap.Loyaltyz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
